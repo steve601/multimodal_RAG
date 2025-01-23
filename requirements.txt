@@ -1,0 +1,16 @@
+llama-index-vector-stores-lancedb
+llama_index
+lancedb==0.6.13 
+moviepy
+pydub
+SpeechRecognition
+ffmpeg-python
+ftfy regex tqdm
+yt-dlp
+openai-whisper
+git+https://github.com/openai/CLIP.git
+torch
+torchvision
+llama-index-embeddings-huggingface
+llama-index-multi-modal-llms-gemini
+llama-index-vector-stores-lancedb
